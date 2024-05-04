@@ -25,3 +25,8 @@ This will be used to log into the app
 6. Start the server: `cd server && npm start`
 7. Start the client: `cd client && npm start`
 8. Open `http://localhost:3000` in your browser
+
+## Demo
+
+https://github.com/geraldhoxha95/shared-calendar/assets/168354701/1358f925-c892-4143-8447-e03259287325
+
