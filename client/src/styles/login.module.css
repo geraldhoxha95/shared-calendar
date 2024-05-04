@@ -1,0 +1,14 @@
+.component {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 20%;
+    min-width: 200px;
+    justify-content: center;
+    height: 100%
+}
+
+html,
+body {
+    height: 100%;
+}
